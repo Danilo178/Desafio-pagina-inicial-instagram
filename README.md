@@ -1,2 +1,2 @@
 # Desafio-pagina-inicial-instagram
-Desafio de projeto sobre recriar a página inicial do Instagram
+Repositório desafio de projeto da Dio, sobre recriar a página inicial do Instagram.
